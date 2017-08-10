@@ -1,0 +1,11 @@
+from turtle import *
+thomas=Turtle()
+thomas.color("brown")
+for i in range(4)
+ thomas.forward(100)
+ thomas.right(90)
+for i in range(100)
+ thomas.right(90)
+ thomas.forward(100)
+ thomas.right(90)
+ thomas.forward(1)
